@@ -41,7 +41,7 @@
     "trailingComma": "es5"
   },
   "dependencies": {
-    "@emotion/core": "^10.0.14",
+    "@emotion/react": "^11.9.3",
     "react-transition-group": "^4.4.1"
   },
   "devDependencies": {
